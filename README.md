@@ -57,4 +57,4 @@ The final rankings would be based on your private score which will be published 
 
 -Very Limited feature engineering
 
--Could not try catboost
+-Not tried catboost
